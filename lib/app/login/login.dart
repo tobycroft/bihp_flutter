@@ -1,17 +1,17 @@
 import 'dart:convert';
 
-import 'package:tuuzflutter2/config/url.dart';
+import 'package:bihp_flutter/config/url.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
-import 'package:tuuzflutter2/app/login/help/help.dart';
-import 'package:tuuzflutter2/config/auth.dart';
-import 'package:tuuzflutter2/config/config.dart';
-import 'package:tuuzflutter2/config/res.dart';
-import 'package:tuuzflutter2/tuuz/alert/ios.dart';
-import 'package:tuuzflutter2/tuuz/button/button.dart';
-import 'package:tuuzflutter2/tuuz/net/net.dart';
-import 'package:tuuzflutter2/tuuz/storage/storage.dart';
-import 'package:tuuzflutter2/tuuz/win/close.dart';
+import 'package:bihp_flutter/app/login/help/help.dart';
+import 'package:bihp_flutter/config/auth.dart';
+import 'package:bihp_flutter/config/config.dart';
+import 'package:bihp_flutter/config/res.dart';
+import 'package:bihp_flutter/tuuz/alert/ios.dart';
+import 'package:bihp_flutter/tuuz/button/button.dart';
+import 'package:bihp_flutter/tuuz/net/net.dart';
+import 'package:bihp_flutter/tuuz/storage/storage.dart';
+import 'package:bihp_flutter/tuuz/win/close.dart';
 
 class Login extends StatefulWidget {
   @override

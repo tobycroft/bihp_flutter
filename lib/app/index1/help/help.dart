@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:tuuzflutter2/config/config.dart';
+import 'package:bihp_flutter/config/config.dart';
 
 class Index_Help extends StatefulWidget {
   @override

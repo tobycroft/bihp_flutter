@@ -1,6 +1,6 @@
-import 'package:tuuzflutter2/app/login/login.dart';
-import 'package:tuuzflutter2/tuuz/storage/storage.dart';
-import 'package:tuuzflutter2/tuuz/win/close.dart';
+import 'package:bihp_flutter/app/login/login.dart';
+import 'package:bihp_flutter/tuuz/storage/storage.dart';
+import 'package:bihp_flutter/tuuz/win/close.dart';
 import 'package:flutter/cupertino.dart';
 
 class Auth {

@@ -1,14 +1,14 @@
 import 'dart:convert';
 import 'dart:ui';
 
-import 'package:tuuzflutter2/app/index4/balance_record/url_balance_record.dart';
-import 'package:tuuzflutter2/config/auth.dart';
-import 'package:tuuzflutter2/extend/authaction/authaction.dart';
+import 'package:bihp_flutter/app/index4/balance_record/url_balance_record.dart';
+import 'package:bihp_flutter/config/auth.dart';
+import 'package:bihp_flutter/extend/authaction/authaction.dart';
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
-import 'package:tuuzflutter2/config/config.dart';
-import 'package:tuuzflutter2/tuuz/alert/ios.dart';
-import 'package:tuuzflutter2/tuuz/net/net.dart';
+import 'package:bihp_flutter/config/config.dart';
+import 'package:bihp_flutter/tuuz/alert/ios.dart';
+import 'package:bihp_flutter/tuuz/net/net.dart';
 import 'package:flutter_easyrefresh/easy_refresh.dart';
 
 class Balance_record extends StatefulWidget {

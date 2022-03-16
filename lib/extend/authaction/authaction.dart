@@ -1,4 +1,4 @@
-import 'package:tuuzflutter2/tuuz/storage/storage.dart';
+import 'package:bihp_flutter/tuuz/storage/storage.dart';
 import 'package:flutter/material.dart';
 
 class AuthAction {

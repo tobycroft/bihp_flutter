@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:tuuzflutter2/config/config.dart';
-import 'package:tuuzflutter2/tuuz/alert/ios.dart';
+import 'package:bihp_flutter/config/config.dart';
+import 'package:bihp_flutter/tuuz/alert/ios.dart';
 
 class Robot_info_index extends StatefulWidget {
   var robot_info;

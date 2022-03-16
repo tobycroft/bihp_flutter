@@ -1,7 +1,7 @@
 import 'dart:convert';
 import 'dart:io';
 
-import 'package:tuuzflutter2/config/config.dart';
+import 'package:bihp_flutter/config/config.dart';
 
 class Net {
   Future<String> Post(String url, path, Map<String, String?>? get, Map<String, dynamic>? post, Map<String, String>? header) async {

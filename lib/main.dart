@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
-import 'package:tuuzflutter2/app/index1/index1.dart';
-import 'package:tuuzflutter2/app/index4/index4.dart';
-import 'package:tuuzflutter2/route.dart';
+import 'package:bihp_flutter/app/index1/index1.dart';
+import 'package:bihp_flutter/app/index4/index4.dart';
+import 'package:bihp_flutter/route.dart';
 
 void main() {
   Init().init();

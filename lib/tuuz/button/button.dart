@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:tuuzflutter2/tuuz/win/close.dart';
+import 'package:bihp_flutter/tuuz/win/close.dart';
 
 class Tuuz_Button {
   @override
